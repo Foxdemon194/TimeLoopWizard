@@ -1,4 +1,0 @@
-These are extra animations for this character.
-
-If you want the character to cast skill by using hand. These animations are for you.
-
